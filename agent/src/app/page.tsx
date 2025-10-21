@@ -3,6 +3,7 @@ import SignIn from "@/src/app/component/sign-in"
 import SignOut from "@/src/app/component/sign-out"
 import Userdetails from "./component/Userdetails"
 import users from "@/src/app/users/user.json"
+
 export default async function HomePage() {
   const session = await auth()
 
