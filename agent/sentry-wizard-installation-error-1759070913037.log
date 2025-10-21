@@ -1,0 +1,14 @@
+npm warn cleanup Failed to remove some directories [
+npm warn cleanup   [
+npm warn cleanup     'C:\\Users\\shaim\\Desktop\\infenia\\agent-frontend\\agent\\node_modules\\next',
+npm warn cleanup     [Error: EPERM: operation not permitted, rmdir 'C:\Users\shaim\Desktop\infenia\agent-frontend\agent\node_modules\next\dist\esm\build\webpack\loaders\css-loader\src'] {
+npm warn cleanup       errno: -4048,
+npm warn cleanup       code: 'EPERM',
+npm warn cleanup       syscall: 'rmdir',
+npm warn cleanup       path: 'C:\\Users\\shaim\\Desktop\\infenia\\agent-frontend\\agent\\node_modules\\next\\dist\\esm\\build\\webpack\\loaders\\css-loader\\src'
+npm warn cleanup     }
+npm warn cleanup   ]
+npm warn cleanup ]
+npm error code EIDLETIMEOUT
+npm error Idle timeout reached for host `registry.npmjs.org:443`
+npm error A complete log of this run can be found in: C:\Users\shaim\AppData\Local\npm-cache\_logs\2025-09-28T14_07_33_056Z-debug-0.log

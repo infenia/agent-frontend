@@ -1,0 +1,31 @@
+[
+    {
+        "user_id":1,
+        "first_name":"john",
+        "middle_name":"A",
+        "last_name":"francis",
+        "email":"john@gmail.com"
+    },
+    {
+       "user_id":2,
+        "first_name":"adam",
+        "middle_name":"b",
+        "last_name":"smith",
+        "email":"adam@gmail.com"
+    },
+    {
+        "user_id":3,
+        "first_name":"helna",
+        "middle_name":"g",
+        "last_name":"david",
+        "email":"helna@gmail.com"
+    },
+    {
+        "user_id":4,
+        "first_name":"aleena",
+        "middle_name":"c",
+        "last_name":"francis",
+        "email":"helna@gmail.com"
+    }
+
+]
